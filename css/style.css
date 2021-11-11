@@ -417,7 +417,8 @@ body.lock {
 }
 
 .design {
-  margin: 60px 0 30px 0;
+  margin: 3.75rem 0 0 0;
+  padding-bottom: 1.875rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
