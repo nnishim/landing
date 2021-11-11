@@ -417,7 +417,7 @@ body.lock {
 }
 
 .design {
-  margin-top: 60px;
+  margin: 60px 0 30px 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
