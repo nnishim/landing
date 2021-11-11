@@ -1,0 +1,4 @@
+@mixin flex($cross: null) {
+  display: flex;
+  justify-content: $cross;
+}
